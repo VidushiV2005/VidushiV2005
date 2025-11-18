@@ -46,7 +46,6 @@ I focus on React, modern UI libraries, and writing maintainable, scalable fronte
 ---
 
 ## 🧠 LeetCode  
-I actively solve algorithmic problems to strengthen my logic and problem-solving skills.  
 Profile: https://leetcode.com/u/VidushiV/
 
 <div align="center">
