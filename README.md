@@ -1,5 +1,5 @@
 <!-- Title Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00EFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vidushi+Verma;Frontend+Developer+%7C+React+%7C+UI%2FUX;Creating+simple+%26+clean+web+experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00EFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vidushi+Verma+%7C+React+%7C+UI%2FUX;Creating+simple+%26+clean+web+experiences.)](https://git.io/typing-svg)
 
 ---
 
