@@ -1,11 +1,11 @@
 <!-- Title Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00EFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vidushi+Verma+%7C+React+%7C+UI%2FUX;Creating+simple+%26+clean+web+experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00EFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vidushi+Verma;Frontend+Developer+%7C+React+%7C+UI%2FUX;Creating+simple+%26+clean+web+experiences.)](https://git.io/typing-svg)
 
 ---
 
 ## 🌙 About Me  
-Frontend developer focused on building clean, minimal, and user-centric interfaces.  
-Currently learning advanced React patterns, TypeScript, and improving problem-solving through LeetCode.
+Frontend developer passionate about building clean, fast, and intuitive web interfaces.  
+I focus on React, modern UI libraries, and writing maintainable, scalable frontend code.
 
 ---
 
@@ -46,17 +46,11 @@ Currently learning advanced React patterns, TypeScript, and improving problem-so
 ---
 
 ## 🧠 LeetCode  
+I actively solve algorithmic problems to strengthen my logic and problem-solving skills.  
+Profile: https://leetcode.com/u/VidushiV/
 
 <div align="center">
-
-<a href="https://leetcode.com/u/VidushiV/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://leetcode.card.workers.dev/VidushiV?theme=dark&border=0" />
-
+  <img src="https://leetcard.jacoblin.cool/VidushiV?theme=dark&font=JetBrains%20Mono&border=0" height="200"/>
 </div>
 
 ---
