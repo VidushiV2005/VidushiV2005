@@ -32,18 +32,7 @@ I focus on React, modern UI libraries, and writing maintainable, scalable fronte
 
 </div>
 
----
 
-## 📊 GitHub Overview  
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=VidushiV2005&show_icons=true&theme=tokyonight&hide_border=false" />
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=VidushiV2005&theme=tokyonight&hide_border=false" />
-
-</div>
-
----
 
 ## 🧠 LeetCode  
 Profile: https://leetcode.com/u/VidushiV/
