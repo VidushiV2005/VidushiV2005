@@ -1,41 +1,28 @@
-<!-- Title Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00EFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vidushi+Verma;Frontend+Developer+%7C+React+%7C+UI%2FUX;Creating+simple+%26+clean+web+experiences.)](https://git.io/typing-svg)
-
----
-
-## 🌙 About Me  
-Frontend developer passionate about building clean, fast, and intuitive web interfaces.  
-I focus on React, modern UI libraries, and writing maintainable, scalable frontend code.
-
----
-
-## 🚀 Tech Stack  
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><strong>Languages</strong></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,sql" height="38"/></td>
-</tr>
+# Vidushi Verma
 
-<tr>
-<td align="center"><strong>Frontend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,threejs" height="38"/></td>
-</tr>
+Frontend Developer · React · UI/UX
 
-<tr>
-<td align="center"><strong>Tools</strong></td>
-<td><img src="https://skillicons.dev/icons?i=vscode,git,github,firebase" height="38"/></td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-verma-722258296/)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/VidushiV2005)
 
 </div>
 
+---
 
+## Tech Stack
 
-## 🧠 LeetCode  
-Profile: https://leetcode.com/u/VidushiV/
+| | |
+|---|---|
+| **Languages** | ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![SQL](https://skillicons.dev/icons?i=sql&theme=dark) |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) ![Three.js](https://skillicons.dev/icons?i=threejs&theme=dark) |
+| **Backend & DB** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) |
+| **Tools** | ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) |
+
+---
+
+## LeetCode
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/VidushiV?theme=dark&font=JetBrains%20Mono&border=0" height="200"/>
@@ -43,26 +30,6 @@ Profile: https://leetcode.com/u/VidushiV/
 
 ---
 
-## 🌐 Connect  
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vidushi-verma-722258296/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/VidushiV2005">
-  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  
-**⭐ If you find my work interesting, feel free to star my repositories.**
-
+  <sub>⭐ Feel free to star any repositories you find useful.</sub>
 </div>
