@@ -2,7 +2,7 @@
 
 # Vidushi Verma
 
-Frontend Developer · React · UI/UX
+Software Developer · React · UI/UX
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-verma-722258296/)
 [![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/VidushiV2005)
