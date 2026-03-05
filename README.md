@@ -26,8 +26,6 @@
   <img src="https://leetcard.jacoblin.cool/VidushiV?theme=dark&font=JetBrains%20Mono&border=0" height="200"/>
 </div>
 
----
 
-<div align="center">
-  <sub>⭐ Feel free to star any repositories you find useful.</sub>
-</div>
+
+
